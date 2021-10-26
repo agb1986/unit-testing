@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: unit-testing
+
+server:
+  port: 8100
